@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        // 1. Creating a single-dimensional integer array with 5 favorite numbers
+       // 1. Creating a single-dimensional integer array with 5 favorite numbers
         int[] favoriteNumbers = { 1,2,3,4,5 };
 
         Console.WriteLine("Original array: " + string.Join(", ", favoriteNumbers));
